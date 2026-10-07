@@ -1,0 +1,11 @@
+{
+  "name":"حساب کالا غفور غنی",
+  "short_name":"حساب کالا غفور",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#07111f",
+  "theme_color":"#0b5ed7",
+  "dir":"rtl",
+  "lang":"fa",
+  "icons":[{"src":"icon-1024.png","sizes":"1024x1024","type":"image/png","purpose":"any maskable"}]
+}
